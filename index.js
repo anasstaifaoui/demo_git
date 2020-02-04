@@ -1,4 +1,6 @@
 var i = 1;
 var j = 2;
-console.log(i+j);
+var k = 3;
+
+alert(i + j + j )
 
